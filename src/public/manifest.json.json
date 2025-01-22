@@ -3,14 +3,14 @@
     "name": "Inventory Management System",
     "icons": [
       {
-        "src": "logo192.png",
+        "src": "shoplogo.png",
         "type": "image/png",
-        "sizes": "192x192"
+        "sizes": "282x227"
       },
       {
-        "src": "logo512.png",
+        "src": "front.png",
         "type": "image/png",
-        "sizes": "512x512"
+        "sizes": "4032x3024"
       }
     ],
     "start_url": ".",
